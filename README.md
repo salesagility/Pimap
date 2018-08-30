@@ -2,7 +2,9 @@
 A PHP Library for communication with IMAP Servers.
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Build Status](https://travis-ci.org/SalesAgility/Pimap.svg?branch=master)](https://travis-ci.org/daniel-samson/Pimap)
+[![Build Status](https://travis-ci.org/SalesAgility/Pimap.svg?branch=master)](https://travis-ci.org/SalesAgility/Pimap)
+[![codecov](https://codecov.io/gh/SalesAgility/Pimap/branch/master/graph/badge.svg)](https://codecov.io/gh/SalesAgility/Pimap)
+[![Total Downloads](https://poser.pugx.org/SalesAgility/Pimap/downloads)](https://packagist.org/packages/SalesAgility/Pimap)
 
 ### Rationale
 When communication with an IMAP email server involves a high amount of latency,
@@ -51,7 +53,7 @@ handling your report.
 ### Add to your project (Composer)
 
 ```bash
-composer require "SalesAgility/pimap"
+composer require "salesagility/pimap"
 ```
 
 ### Getting Help
