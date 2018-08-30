@@ -1,5 +1,5 @@
 {
-  "name": "SalesAgility/Pimap",
+  "name": "salesagility/pimap",
   "description": "A PHP Library for communicating with IMAP Servers using stream socket connection",
   "type": "project",
   "license": "GPL-3.0-or-later",
