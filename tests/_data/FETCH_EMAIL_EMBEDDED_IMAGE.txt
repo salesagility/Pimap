@@ -1,0 +1,39 @@
+* 2681 FETCH (UID 2688 FLAGS (\Seen) BODY[TEXT] {1054}
+--00000000000014634f0571f83c62
+Content-Type: multipart/alternative; boundary="0000000000001463430571f83c61"
+
+--0000000000001463430571f83c61
+Content-Type: text/plain; charset="UTF-8"
+
+This is an embedded image
+
+--0000000000001463430571f83c61
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr"><div>This is an embedded image</div><div><img src="cid:ii_jk3tkr6b1_164db31f1b15fb3b" width="4" height="4"><br></div><br></div>
+
+--0000000000001463430571f83c61--
+--00000000000014634f0571f83c62
+Content-Type: image/png; name="example.png"
+Content-Disposition: inline; filename="example.png"
+Content-Transfer-Encoding: base64
+Content-ID: <ii_jk3tkr6b1_164db31f1b15fb3b>
+X-Attachment-Id: ii_jk3tkr6b1_164db31f1b15fb3b
+
+iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAABPSURB
+VAiZAUQAu/8B/1VV/8ni4gA3L8kAyQs3AACsnZP//9Qq/9O8X/8A/8z/AuXt3ACrANYALe4pAADN
+MwAAAMz//1UA1P//zAD/qtQA/7quI62D01ONAAAAAElFTkSuQmCC
+--00000000000014634f0571f83c62-- BODY[HEADER] {443}
+MIME-Version: 1.0
+Received: by 2002:a25:d905:0:0:0:0:0 with HTTP; Fri, 27 Jul 2018 03:04:17
+ -0700 (PDT)
+Date: Fri, 27 Jul 2018 11:04:17 +0100
+Delivered-To: suitecrm2@gmail.com
+Message-ID: <CAMFzkGqe9cPZUGK0QkydNK-spZiY1k11POb49QiexKTPxgboYw@mail.gmail.com>
+Subject: Embedded Images
+From: Daniel Samson <suitecrm2@gmail.com>
+To: qweqwe <suitecrm2@gmail.com>
+Content-Type: multipart/related; boundary="00000000000014634f0571f83c62"
+
+ BODYSTRUCTURE ((("TEXT" "PLAIN" ("CHARSET" "UTF-8") NIL NIL "7BIT" 27 1 NIL NIL NIL)("TEXT" "HTML" ("CHARSET" "UTF-8") NIL NIL "7BIT" 144 3 NIL NIL NIL) "ALTERNATIVE" ("BOUNDARY" "0000000000001463430571f83c61") NIL NIL)("IMAGE" "PNG" ("NAME" "example.png") "<ii_jk3tkr6b1_164db31f1b15fb3b>" NIL "BASE64" 286 NIL ("INLINE" ("FILENAME" "example.png")) NIL) "RELATED" ("BOUNDARY" "00000000000014634f0571f83c62") NIL NIL))

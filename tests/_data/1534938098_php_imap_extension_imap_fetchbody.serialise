@@ -1,0 +1,13 @@
+a:1:{s:14:"imap_fetchbody";s:345:"--b2_EjuxnAKlUhzO4MXUA03f8lcG8xcCJLa273hl4yyo
+Content-Type: text/plain; charset=us-ascii
+
+This is the body in plain text for non-HTML mail clients
+
+--b2_EjuxnAKlUhzO4MXUA03f8lcG8xcCJLa273hl4yyo
+Content-Type: text/html; charset=us-ascii
+
+This is the HTML message body <b>in bold!</b>
+
+
+--b2_EjuxnAKlUhzO4MXUA03f8lcG8xcCJLa273hl4yyo--
+";}

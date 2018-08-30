@@ -1,0 +1,8 @@
+* FLAGS (\Answered \Flagged \Deleted \Seen \Draft)
+* OK [PERMANENTFLAGS (\Answered \Flagged \Deleted \Seen \Draft \*)] Flags permitted.
+* 74090 EXISTS
+* 0 RECENT
+* OK [UNSEEN 22] First unseen.
+* OK [UIDVALIDITY 1528185994] UIDs valid
+* OK [UIDNEXT 74091] Predicted next UID
+2 OK [READ-WRITE] Select completed (0.018 + 0.000 + 0.017 secs).

@@ -1,0 +1,21 @@
+* 1 FETCH (BODY[HEADER] {782}
+Return-Path: <root@localhost.localdomain>
+X-Original-To: user@localhost.localdomain
+Delivered-To: user@localhost.localdomain
+Received: from u255 (localhost [127.0.0.1])
+	by u255 (Postfix) with ESMTP id 9AFDAB813D1
+	for <user@localhost.localdomain>; Tue,  5 Jun 2018 08:59:50 +0100 (BST)
+Date: Tue, 5 Jun 2018 08:59:50 +0100
+To: Daniel <user@localhost.localdomain>
+From: Mailer <root@localhost.localdomain>
+Reply-To: Information <user@localhost.localdomain>
+Subject: Test Email: Baron Hartmann
+Message-ID: <DJdjz17adcO1Vkuk6O7ioGY6JIiljLQAWVYV3MWgC7s@u255>
+X-Mailer: PHPMailer 6.0.5 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="b1_DJdjz17adcO1Vkuk6O7ioGY6JIiljLQAWVYV3MWgC7s"
+Content-Transfer-Encoding: 8bit
+
+)
+A1 OK

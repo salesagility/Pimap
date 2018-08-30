@@ -1,0 +1,268 @@
+command:
+  APPEND:
+  AUTHENTICATE:
+    responses:
+      OK:
+        attrbute:
+        - "authenticate completed, now in authenticated state"
+      BAD:
+        attribute:
+        - "authenticate failure: unsupported authentication mechanism, credentials rejected"
+      NO:
+        attribute:
+        - "command unknown or arguments invalid"
+  CAPABILITY:
+    response:
+      CAPABILITY:
+        attribute:
+        - "capability completed"
+  CHECK:
+  CLOSE:
+  COPY:
+  CREATE:
+  DELETE:
+  EXAMINE:
+  EXPUNGE:
+  FETCH:
+    response:
+    - FETCH
+    item:
+    - ALL
+    - FAST
+    - BODY
+    - BODY[HEADER]
+    - BODY[HEADER.FIELDS]
+    - BODY[HEADER.FIELDS.NOT]
+    - BODY[MIME]
+    - BODY[TEXT]
+    - BODY[1]
+    - BODY[2.1]
+    - BODY[2.2]
+    - BODY.PEAK
+    - BODYSTRUCTURE
+    - ENVELOPE
+    - FLAGS
+    - INTERNALDATE
+    - RFC822
+    - RFC822.HEADER
+    - RFC822.SIZE
+    - RFC822.TEXT
+    - UID
+    result:
+    - BODY
+    - BODY[HEADER]
+    - BODY[HEADER.FIELDS]
+    - BODY[HEADER.FIELDS.NOT]
+    - BODY[MIME]
+    - BODY[TEXT]
+    - BODYSTRUCTURE
+    - ENVELOPE
+    - FLAGS
+    - INTERNALDATE
+    - RFC822
+    - RFC822.HEADER
+    - RFC822.SIZE
+    - RFC822.TEXT
+    - UID
+  LIST:
+  LOGIN:
+    response:
+      OK:
+        attribute:
+        - "login completed, now in authenticated state"
+      NO:
+        attribute:
+        - "login failure: user name or password rejected"
+      BAD:
+        attribute:
+        - "command unknown or arguments invalid"
+    attribute:
+    - "Logged in"
+    - "(Success)"
+  LOGOUT:
+    response:
+      OK:
+        attribute:
+        "logout completed"
+      BYE:
+      BAD:
+        attribute:
+        - "command unknown or arguments invalid"
+  LSUB:
+  NOOP:
+    OK:
+      attrbute:
+      - "completed"
+    BAD:
+      attribute:
+      - "command unknown or arguments invalid"
+  RENAME:
+  SEARCH:
+    key:
+    - ALL
+    - ANSWERED
+    - BCC
+    - BEFORE
+    - BODY
+    - CC
+    - DELETED
+    - DRAFT
+    - FLAGGED
+    - FROM
+    - HEADER
+    - KEYWORD
+    - LARGER
+    - NEW
+    - NOT
+    - OLD
+    - ON
+    - OR
+    - RECENT
+    - SEEN
+    - SENTBEFORE
+    - SENTON
+    - SENTSINCE
+    - SINCE
+    - SMALLER
+    - SUBJECT
+    - TEXT
+    - TO
+    - UID
+    - UNANSWERED
+    - UNDELETED
+    - UNDRAFT
+    - UNFLAGGED
+    - UNKEYWORD
+    - UNSEEN
+  SELECT:
+  STARTTLS:
+    response:
+      OK:
+        attribute:
+        - "starttls completed, begin TLS negotiation"
+      BAD:
+        attribute:
+        - "command unknown or arguments invalid"
+  STATUS:
+  STORE:
+    item:
+    - FLAGS
+    - FLAGS.SILENT
+    - +FLAGS
+    - +FLAGS.SILENT
+    - -FLAGS
+    - -FLAGS.SILENT
+  SUBSCRIBE:
+  UID:
+#  X-:
+systen code:
+- ALERT
+- BADCHARSET
+- CAPABILITY
+- PARSE
+- PERMANENTFLAGS
+- READ-ONLY
+- READ-WRITE
+- TRYCREATE
+- UIDNEXT
+- UIDVALIDITY
+- UNSEEN
+response:
+- BAD
+- BYE
+- CAPABILITY
+- EXISTS
+- EXPUNGE
+- FETCH
+- FLAGS
+- LIST
+- LSUB
+- NO
+- OK
+- PREAUTH
+- RECENT
+- SEARCH
+- STATUS
+system response:
+- OK
+- BAD
+- NO
+system flag:
+- \Answered
+- \Deleted
+- \Draft
+- \Flagged
+- \Recent
+- \Seen
+flag class:
+- Permanent Flag
+- Session Flag
+flag type:
+- Keyword
+- System Flag
+mailbox name attribute:
+- \Marked
+- \Noinferiors
+- \Noselect
+- \Unmarked
+specification requirement term:
+- MAY
+- MUST
+- MUST NOT
+- OPTIONAL
+- REQUIRED
+- SHOULD
+- SHOULD NOT
+message:
+  field:
+  #
+  - orig-date
+  - references
+  - comments
+  - keywords
+  - optional-field
+  # main fields
+  - Return-Path
+  - Received
+  - From
+  - Date
+  - To
+  - Reply-To
+  - Subject
+  - Message-ID
+  - MIME-Version
+  # Resent indication
+  - trace
+  - resent-date
+  - resent-from
+  - resent-sender
+  - resent-to
+  - resent-cc
+  - resent-bcc
+  - resent-msg-id
+
+  mime field:
+  - Content-Type
+  - Content-ID
+  - Content-Transfer-Encoding
+  - Content-Disposition
+  part speficifier:
+  - HEADER
+  - HEADER.FIELDS
+  - HEADER.FIELDS.NOT
+  - MIME
+  - TEXT
+  attribute:
+  - "Body Structure"
+  - "Envelope Structure"
+  - "Flags"
+  - "Internal Date"
+  - "Message Sequence Number"
+  - "Unique Identifier (UID)"
+  - "[RFC-2822] Size"
+status item:
+- MESSAGES
+- RECENT
+- UIDNEXT
+- UIDVALIDITY
+- UNSEEN

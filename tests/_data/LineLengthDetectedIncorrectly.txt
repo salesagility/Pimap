@@ -1,0 +1,21 @@
+* 2669 FETCH (UID 2676 FLAGS (\Seen) BODY[HEADER] {838}
+Return-Path: <xxxxxxxxx@xxxxx.com>
+Received: from u255 ([185.8.93.2]) by smtp.xxxxx.com with ESMTPSA id
+ n11-v6sm20263937wro.13.2018.06.07.01.22.06 for <xxxxxxxxx@xxxxx.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 07 Jun
+ 2018 01:22:07 -0700 (PDT)
+From: Mailer <xxxxxxxxx@xxxxx.com>
+X-Google-Original-From: Mailer <xxxxxx.xxxxxx@xxxxxxxxxxxx.com>
+Date: Thu, 7 Jun 2018 09:22:06 +0100
+To: xxxxxx <xxxxxxxxx@xxxxx.com>
+Reply-To: Information <xxxxxx.xxxxxx@xxxxxxxxxxxx.com>
+Subject: Test Email: Prof. Whitney Steuber DDS
+Message-ID: <Spp7KzQILIjJfL1dFD3eWNpAh6yMwE6SC0c7YjEsTM@u255>
+X-Mailer: PHPMailer 6.0.5 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="b1_Spp7KzQILIjJfL1dFD3eWNpAh6yMwE6SC0c7YjEsTM"
+Content-Transfer-Encoding: 8bit
+
+ BODYSTRUCTURE ((("TEXT" "PLAIN" ("CHARSET" "us-ascii") NIL NIL "7BIT" 58 2 NIL NIL NIL)("TEXT" "HTML" ("CHARSET" "us-ascii") NIL NIL "7BIT" 49 1 NIL NIL NIL) "ALTERNATIVE" ("BOUNDARY" "b2_Spp7KzQILIjJfL1dFD3eWNpAh6yMwE6SC0c7YjEsTM") NIL NIL)("TEXT" "PLAIN" ("NAME" "Plaintext") "<Plaintext>" NIL "BASE64" 18 1 NIL ("ATTACHMENT" ("FILENAME" "Plaintext")) NIL) "MIXED" ("BOUNDARY" "b1_Spp7KzQILIjJfL1dFD3eWNpAh6yMwE6SC0c7YjEsTM") NIL NIL))
+A3 OK Success

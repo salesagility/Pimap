@@ -1,0 +1,42 @@
+{
+  "name": "SalesAgility/Pimap",
+  "description": "A PHP Library for communicating with IMAP Servers using stream socket connection",
+  "type": "project",
+  "license": "GPL-3.0-or-later",
+  "authors": [],
+  "version": "v0.1.0",
+  "minimum-stability": "stable",
+  "config": {
+    "optimize-autoloader": true,
+    "vendor-dir": "vendor",
+    "platform": {
+      "php": "5.5.9"
+    }
+  },
+  "require": {
+    "php": ">=5.5.9",
+    "ext-imap": "*",
+    "ext-mbstring": "*",
+    "ext-openssl": "*",
+    "ext-json": "*",
+    "ext-fileinfo": "*",
+    "psr/log": "^1.0.0",
+    "psr/container": "^1.0.0"
+  },
+  "require-dev": {
+    "codeception/codeception": "^2.4.1",
+    "consolidation/robo": "^1.0.0",
+    "daux/daux.io": "^0.3.2"
+  },
+  "scripts": {},
+  "prefer-stable": true,
+  "autoload": {
+    "psr-4": {
+      "SalesAgility\\": [
+        "src/",
+        "tests/unit/SalesAgility"
+      ]
+    }
+  },
+  "extra": {}
+}

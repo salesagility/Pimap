@@ -1,0 +1,26 @@
+* 8790 FETCH (UID 1565488 BODY[HEADER] {1082}
+Return-Path: <joe@example.com>
+Received: from hoza15.fra2.bytemine.net ([::ffff:127.0.0.1]:40729)
+	by hoza15 (kopano-dagent) with LMTP;
+	Tue, 10 Jul 2018 17:07:05 +0200 (CEST)
+Received: from localhost ([::1] helo=hoza15.fra2.bytemine.net)
+	by hoza15.fra2.bytemine.net with esmtp (Exim 4.86_2)
+	(envelope-from <joe@example.com>)
+	id 1fcuEL-0003AD-Jv; Tue, 10 Jul 2018 17:07:05 +0200
+Received: by hoza15 (kopano-spooler) with MAPI; Tue, 10 Jul 2018 17:07:05
+ +0200
+Subject: RE: Test Email: Please Ignore
+From: =?utf-8?Q?Joe?= <joe@example.com>
+To: =?utf-8?Q?Daniel?= <daniel@example.com>,
+ =?utf-8?Q?Ashley?= <ashley@example.com>
+Date: Tue, 10 Jul 2018 17:07:05 +0200
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="=_pKchp9S4f4sDa+rX7rCOibp8+zxbpRMqfUke9HXcw8-axbG2"
+In-Reply-To: <kcim.5b44c8c4.2d48.608c49985726624d@hoza15.fra2.bytemine.net>
+References: <kcim.5b44c8c4.2d48.608c49985726624d@hoza15.fra2.bytemine.net>
+X-Priority: 3 (Normal)
+X-Mailer: Kopano 8.5.5
+Message-Id: <kcim.5b44cb99.2f81.6604c5126d8c32d7@hoza15.fra2.bytemine.net>
+
+ BODYSTRUCTURE (("text" "plain" ("charset" "utf-8") NIL NIL "quoted-printable" 593 38 NIL NIL NIL NIL)("text" "html" ("charset" "utf-8") NIL NIL "quoted-printable" 3211 54 NIL NIL NIL NIL) "alternative" ("boundary" "=_pKchp9S4f4sDa+rX7rCOibp8+zxbpRMqfUke9HXcw8-axbG2") NIL NIL NIL) FLAGS (\Seen \Recent))

@@ -1,0 +1,26 @@
+{
+  "title": "SalesAgility Pimap",
+  "tagline": "PHP Internet Message Access Protocol (PIMAP)",
+  "description": "PHP Internet Message Access Protocol (PIMAP)",
+  "format": "html",
+  "html": {
+    "search": false,
+    "theme": "daux-navy",
+    "auto_toc": false,
+    "inherit_index": true,
+    "repo": "SalesAgility/Pimap",
+    "breadcrumbs": true,
+    "breadcrumb_separator" : " > ",
+    "float": false,
+    "date_modified": false,
+    "jump_buttons": true
+  },
+  "ignore": {
+    "files": ["ignore.md"],
+    "folders": ["ignore/"]
+  },
+  "timezone": "Europe/London",
+  "languages": {
+    "en": "View Documentation (English)"
+  }
+}

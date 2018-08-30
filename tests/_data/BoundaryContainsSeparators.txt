@@ -1,0 +1,891 @@
+* 2675 FETCH (BODY[TEXT] {37605}
+------=_Part_-147098772_744397080.1529438164945
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Thank you to everyone who attended our first-ever Postman User Conference! =
+If you missed out this year or just want to relive the fun:
+
+
+
+=09- You can see speaker and workshop slides=C2=A0here <http://go.getpostma=
+n.com/HU0000a0GlYm7DF0D3M00ph>=C2=A0on our site. We=E2=80=99ll update the s=
+ite with POST/CON videos shortly - stay tuned!
+=09- We're hosting a series of webinars in the upcoming weeks to cover work=
+shop material.=C2=A0Tune into our first webinar this=C2=A0Thursday, June 21=
+ at 10:30am PST and use=C2=A0this link <http://go.getpostman.com/XhD0lZM0G0=
+00D7Fma003Uq0>=C2=A0to register. This week we'll cover workshop pre-reqs an=
+d sending your first request.
+The Postman API Network is the most authentic collection of APIs currently =
+published - and we've made it=C2=A0easier than ever to get your API listed =
+in our API Network, directly within the Postman app.
+What is an API? How does Postman fit in? We get these questions all the tim=
+e, so we created a 2 minute animation to answer them. Watch our Postmanaut =
+help at every stage of the Lifecycle of an API.
+Check out this=C2=A0Programming Throwdown Podcast <http://go.getpostman.com=
+/o00tG0027003lU0FmDMhaD0>=C2=A0where our=C2=A0CEO and Co-Founder Abhinav As=
+thana discusses building, scaling, and testing web services.
+"We use Postman as a knowledge base for our APIs. We also use Postman for m=
+onitoring and loading our backend. Lots of systems can do that, but when we=
+ need to customize that flow, Postman makes it easy."
+
+Read about how Postman helps The League=C2=A0sleep better at night <http://=
+go.getpostman.com/hDl3uFM00U000ah7G000D3m>.
+Find out=C2=A0how we=C2=A0used Postman scripts and the=C2=A0Airtable and Su=
+rveyMonkey APIs to=C2=A0automatically upload <http://go.getpostman.com/v0Fm=
+0G7v0hDDUl43M00a000>=C2=A0the Postman Certification Quiz=C2=A0for our POST/=
+CON Workshop.
+Read about=C2=A0how to=C2=A0write functional tests <http://go.getpostman.co=
+m/F3mMD00w50U0l07a000DhGF>=C2=A0for your API using Postman, Newman, and Bla=
+zeMeter in DZone.
+
+In Dzone, Dwight Gunning of Stream API=C2=A0shares=C2=A0how his team=C2=A0c=
+reated a Postman Collection <http://go.getpostman.com/thDl0a07Um0D600GMF000=
+3x>=C2=A0of API request examples that showcases all of their major features=
+.
+
+Sanjay Patel walks through=C2=A0using environments, dynamic variables, and =
+pre-request scripts with Postman and=C2=A0shares=C2=A0clever tips to use Po=
+stman <http://go.getpostman.com/MG0D0a0mU7F3h007D0lM0y0>=C2=A0in=C2=A0DZone=
+.
+
+------=_Part_-147098772_744397080.1529438164945
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html>
+<head>=20
+<title>New Newsletter Template</title>=20
+<!-- <link href=3D"https://fonts.googleapis.com/css?family=3DOpen+Sans:400,=
+600,700" rel=3D"stylesheet"> -->=20
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>=20
+<!-- Marketo Variables -->                   =20
+<style type=3D"text/css">
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://f=
+onts.gstatic.com/s/opensans/v15/u-WUoqrET9fUeobQW7jkRYX0hVgzZQUfRDuZrPvH3D8=
+.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60=
+-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://f=
+onts.gstatic.com/s/opensans/v15/cJZKeOuBrn4kERxqtaUH3ZBw1xU1rKptJj_0jans920=
+.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, =
+U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https:/=
+/fonts.gstatic.com/s/opensans/v15/MTP_ySUJH_bn48VBG8sNSojoYw3YTyktCCer_ilOl=
+hE.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60=
+-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https:/=
+/fonts.gstatic.com/s/opensans/v15/MTP_ySUJH_bn48VBG8sNShampu5_7CjHW5spxoeN3=
+Vs.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, =
+U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.g=
+static.com/s/opensans/v15/k3k702ZOKiLJc3WVjuplzIjoYw3YTyktCCer_ilOlhE.woff2=
+) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60=
+-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.g=
+static.com/s/opensans/v15/k3k702ZOKiLJc3WVjuplzBampu5_7CjHW5spxoeN3Vs.woff2=
+) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, =
+U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+=09=09a {
+=09=09=09color: #F26B3A !important;
+=09=09}
+    a.button {
+      color: #FFFFFF !important;
+    }
+    #footerText {
+      color: #FFFFFF !important;
+    }
+    #footerText a:link {
+      color: #FFFFFF !important;       =20
+    }
+=09</style>=20
+</head>=20
+<!-- [if !((gte mso 9)|(IE))]><!-->=20
+<body bgcolor=3D"#F26B3A" style=3D"font-family:'Open Sans', -apple-system, =
+Helvetica, Arial, sans-serif !important; color: #282828;"><style type=3D"te=
+xt/css">div#emailPreHeader{ display: none !important; }</style><div id=3D"e=
+mailPreHeader" style=3D"mso-hide:all; visibility:hidden; opacity:0; color:t=
+ransparent; mso-line-height-rule:exactly; line-height:0; font-size:0px; ove=
+rflow:hidden; border-width:0; display:none !important;">POST/CON was a blas=
+t - thank you to everyone who attended our first ever conference! If you mi=
+ssed out this year, or want to relive the fun, POST/CON slide decks and vid=
+eos are now available:</div>=20
+<!-- Pre-header - set this hidden -->=20
+<div style=3D"display: none !important; width:0; height:0; overflow:hidden;=
+ float:none; visibility:hidden; line-height:0; font-size:0; max-height:0; m=
+so-hide: all">=20
+</div>=20
+<!-- <![endif] -->=20
+<!-- Email Content -->=20
+<table id=3D"body" class=3D"body" summary=3D"body" width=3D"100%" height=3D=
+"100%" align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" st=
+yle=3D"background-color: #F26B3A;">=20
+<tbody>=20
+<tr>=20
+<td align=3D"center" valign=3D"top">=20
+<!-- START LIQUID WRAPPER -->=20
+<!--[if mso]>
+        =09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ style=3D"padding:0px;margin:0px;width:100%;">
+           =09=09=09=09=09<tr>
+               =09=09=09=09=09<td style=3D"padding:0px;margin:0px;">&nbsp;<=
+/td>
+                =09=09=09=09<td style=3D"padding:0px;margin:0px;" width=3D"=
+640">
+        =09=09=09<![endif]-->=20
+<table class=3D"outer-table mktoContainer" id=3D"template-wrapper" summary=
+=3D"outer-table" align=3D"center" valign=3D"top" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"width: 100%; max-width: 550px; margin: 0 =
+auto;" width=3D"100%">
+<tr class=3D"mktoModule" id=3D"mkto-header-module">=20
+<td>=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+92.7%; max-width: 510px; margin: 0 auto;" width=3D"100%">=20
+<tbody>=20
+<tr height=3D"20">=20
+<td style=3D"font-size: 0px; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+<tr height=3D"50">=20
+<td align=3D"left" valign=3D"middle"> <a href=3D
+"http://go.getpostman.com/WU03XGMFD0o0Dhl00a0m700" target=3D"_blank"
+><img src=3D"http://pages.getpostman.com/rs/067-UMD-991/images/pm-logo.png"=
+ width=3D"51" height=3D"50" style=3D"border:0; width:51px; height: 50px;"><=
+/a> </td>=20
+<td align=3D"right" valign=3D"middle"> <span style=3D"text-align: right!imp=
+ortant; font-size: 12px; color: #FFFFFF; font-weight: 600;">Postman Monthly=
+ Newsletter: June 2018</span> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"mkto-article-image-module68e1075b-7882-4f7e-=
+a69c-bae67a444e021046f722-b80c-4750-a15e-115b93d173da">=20
+<td>=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+92.7%; max-width: 510px; margin: 0 auto;" width=3D"100%">=20
+<tbody>=20
+<tr height=3D"25">=20
+<td style=3D"font-size: 0px; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td align=3D"center" valign=3D"top">=20
+<div class=3D"mktoImg" id=3D"mkto-article-image68e1075b-7882-4f7e-a69c-bae6=
+7a444e021046f722-b80c-4750-a15e-115b93d173da" mktolockimgsize=3D"true">=20
+<a><img src=3D"https://pages.getpostman.com/rs/067-UMD-991/images/postcon-f=
+inal.jpg" width=3D"510" style=3D"width:100%; max-width: 510px; display: blo=
+ck; background-color: #FFFFFF; box-shadow: 0px 7px 15px rgba(0, 0, 0, .3)!i=
+mportant;" alt=3D"postcon-final.jpg"></a>=20
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td>=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+96%; max-width: 490px; margin: 0 auto;background-color: #FFFFFF; background=
+-image: url(http://pages.getpostman.com/rs/067-UMD-991/images/image-shadow.=
+png); background-repeat: repeat-x; background-size: 2px 25px; background-po=
+sition: 0px 0px;margin: 0 auto; text-align:center;" width=3D"100%" bgcolor=
+=3D"#FFFFFF">=20
+<tbody>=20
+<tr>=20
+<td> <h1 style=3D"font-family:'Open Sans', -apple-system, Helvetica, Arial,=
+ sans-serif !important; font-weight: 600; margin: 25px 20px 25px 20px; padd=
+ing: 0px;text-align: left; color: #282828; font-size: 20px;">POST/CON was a=
+ Blast!</h1>=20
+<div class=3D"mktoText" id=3D"articleContent168e1075b-7882-4f7e-a69c-bae67a=
+444e021046f722-b80c-4750-a15e-115b93d173da" style=3D"font-size: 12px; line-=
+height: 22px; font-weight: 400; color: #282828; margin: 0 20px 25px 20px; p=
+adding: 0px; text-align: left;">=20
+<p>Thank you to everyone who attended our first-ever Postman User Conferenc=
+e! If you missed out this year or just want to relive the fun:<br></p>=20
+<ul>=20
+<li>You can see speaker and workshop slides&nbsp;<a href=3D
+"http://go.getpostman.com/HU0000a0GlYm7DF0D3M00ph" target=3D"_blank" id=3D"=
+"
+>here</a>&nbsp;on our site. We=E2=80=99ll update the site with POST/CON vid=
+eos shortly - stay tuned!</li>=20
+<li>We're hosting a series of webinars in the upcoming weeks to cover works=
+hop material.&nbsp;Tune into our first webinar this&nbsp;<strong>Thursday, =
+June 21 at 10:30am PST</strong> and use&nbsp;<a href=3D
+"http://go.getpostman.com/XhD0lZM0G000D7Fma003Uq0" target=3D"_blank"
+>this link</a>&nbsp;to register. This week we'll cover workshop pre-reqs an=
+d sending your first request.</li>=20
+</ul>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr>=20
+<td>=20
+<div style=3D"display: none !important;">=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+96%; max-width: 490px; margin: 0 auto;background-color: #FFFFFF; margin: 0 =
+auto; text-align:center;" width=3D"100%" bgcolor=3D"#FFFFFF">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td align=3D"center">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td align=3D"center" style=3D"border-radius: 35px;" bgcolor=3D"#ff6c37"> <a=
+ href=3D"#" target=3D"_blank" class=3D"button" style=3D"font-size: 12px; li=
+ne-height: 22px !important; color: #ffffff !important; text-decoration: non=
+e; text-decoration: none;border-radius: 35px; padding: 3px 30px; border: 1p=
+x solid #ff6c37; display: inline-block;font-family:'Open Sans', -apple-syst=
+em, Helvetica, Arial, sans-serif !important;">Read More</a> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr height=3D"25">=20
+<td> &nbsp; </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</div> </td>=20
+</tr>=20
+<tr height=3D"25">=20
+<td style=3D"font-size: 0px; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"mkto-article-textonly-modulee1fa4564-63cd-45=
+55-ab67-561bbb3403f6">=20
+<td>=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+92.7%; max-width: 510px; margin: 0 auto;" width=3D"100%">=20
+<tbody>=20
+<tr height=3D"25">=20
+<td style=3D"font-size: 0px; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td>=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+96%; max-width: 490px; margin: 0 auto;background-color: #FFFFFF; margin: 0 =
+auto; text-align:center;" width=3D"100%" bgcolor=3D"#FFFFFF">=20
+<tbody>=20
+<tr>=20
+<td> <h1 style=3D"font-family:'Open Sans', -apple-system, Helvetica, Arial,=
+ sans-serif !important; font-weight: 600; margin:25px 20px 8px 20px;padding=
+:0px;text-align: left; color: #282828; font-size: 20px;">Join the Postman A=
+PI Network</h1>=20
+<div class=3D"mktoText" id=3D"articleContent2e1fa4564-63cd-4555-ab67-561bbb=
+3403f6" style=3D"font-size: 12px; line-height: 22px; font-weight: 400; colo=
+r: #282828; margin: 0 20px 25px 20px; padding: 0px; text-align: left;">=20
+<p>The Postman API Network is the most authentic collection of APIs current=
+ly published - and we've made it&nbsp;easier than ever to get your API list=
+ed in our API Network, directly within the Postman app.<br></p>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr>=20
+<td>=20
+<div style=3D"display: block;">=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+96%; max-width: 490px; margin: 0 auto;background-color: #FFFFFF; margin: 0 =
+auto; text-align:center;" width=3D"100%" bgcolor=3D"#FFFFFF">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td align=3D"center">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td align=3D"center" style=3D"border-radius: 35px;" bgcolor=3D"#ff6c37"> <a=
+ href=3D
+"http://go.getpostman.com/gr0mFGD0a003MD0hU00007l" target=3D"_blank" class=
+=3D"button" style=3D"font-size: 12px; line-height: 22px !important; color: =
+#ffffff !important; text-decoration: none; text-decoration: none;border-rad=
+ius: 35px; padding: 3px 30px; border: 1px solid #ff6c37; display: inline-bl=
+ock;font-family:'Open Sans', -apple-system, Helvetica, Arial, sans-serif !i=
+mportant;"
+>Learn More</a> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr height=3D"25">=20
+<td> &nbsp; </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</div> </td>=20
+</tr>=20
+<tr height=3D"25">=20
+<td style=3D"font-size: 0px; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"mkto-article-image-module0e1e9080-abd9-4e87-=
+b33c-190c313010ef">=20
+<td>=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+92.7%; max-width: 510px; margin: 0 auto;" width=3D"100%">=20
+<tbody>=20
+<tr height=3D"25">=20
+<td style=3D"font-size: 0px; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td align=3D"center" valign=3D"top">=20
+<div class=3D"mktoImg" id=3D"mkto-article-image0e1e9080-abd9-4e87-b33c-190c=
+313010ef" mktolockimgsize=3D"true">=20
+<a><img src=3D"https://pages.getpostman.com/rs/067-UMD-991/images/lifecycle=
+-of-api-video.png" width=3D"510" style=3D"width:100%; max-width: 510px; dis=
+play: block; background-color: #FFFFFF; box-shadow: 0px 7px 15px rgba(0, 0,=
+ 0, .3)!important;" alt=3D"lifecycle-of-api-video.png"></a>=20
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td>=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+96%; max-width: 490px; margin: 0 auto;background-color: #FFFFFF; background=
+-image: url(http://pages.getpostman.com/rs/067-UMD-991/images/image-shadow.=
+png); background-repeat: repeat-x; background-size: 2px 25px; background-po=
+sition: 0px 0px;margin: 0 auto; text-align:center;" width=3D"100%" bgcolor=
+=3D"#FFFFFF">=20
+<tbody>=20
+<tr>=20
+<td> <h1 style=3D"font-family:'Open Sans', -apple-system, Helvetica, Arial,=
+ sans-serif !important; font-weight: 600; margin: 25px 20px 25px 20px; padd=
+ing: 0px;text-align: left; color: #282828; font-size: 20px;">APIs from Desi=
+gn through Publication (Animated Short)</h1>=20
+<div class=3D"mktoText" id=3D"articleContent10e1e9080-abd9-4e87-b33c-190c31=
+3010ef" style=3D"font-size: 12px; line-height: 22px; font-weight: 400; colo=
+r: #282828; margin: 0 20px 25px 20px; padding: 0px; text-align: left;">=20
+<p>What is an API? How does Postman fit in? We get these questions all the =
+time, so we created a 2 minute animation to answer them. Watch our Postmana=
+ut help at every stage of the Lifecycle of an API.</p>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr>=20
+<td>=20
+<div style=3D"display: block !important;">=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+96%; max-width: 490px; margin: 0 auto;background-color: #FFFFFF; margin: 0 =
+auto; text-align:center;" width=3D"100%" bgcolor=3D"#FFFFFF">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td align=3D"center">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td align=3D"center" style=3D"border-radius: 35px;" bgcolor=3D"#ff6c37"> <a=
+ href=3D
+"http://go.getpostman.com/LaF0DM0030s70U1ml0D0h0G" target=3D"_blank" class=
+=3D"button" style=3D"font-size: 12px; line-height: 22px !important; color: =
+#ffffff !important; text-decoration: none; text-decoration: none;border-rad=
+ius: 35px; padding: 3px 30px; border: 1px solid #ff6c37; display: inline-bl=
+ock;font-family:'Open Sans', -apple-system, Helvetica, Arial, sans-serif !i=
+mportant;"
+>Watch the Video</a> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr height=3D"25">=20
+<td> &nbsp; </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</div> </td>=20
+</tr>=20
+<tr height=3D"25">=20
+<td style=3D"font-size: 0px; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"mkto-article-textonly-module3b93dd58-d39a-4c=
+d0-a352-e9166e94acd7">=20
+<td>=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+92.7%; max-width: 510px; margin: 0 auto;" width=3D"100%">=20
+<tbody>=20
+<tr height=3D"25">=20
+<td style=3D"font-size: 0px; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td>=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+96%; max-width: 490px; margin: 0 auto;background-color: #FFFFFF; margin: 0 =
+auto; text-align:center;" width=3D"100%" bgcolor=3D"#FFFFFF">=20
+<tbody>=20
+<tr>=20
+<td> <h1 style=3D"font-family:'Open Sans', -apple-system, Helvetica, Arial,=
+ sans-serif !important; font-weight: 600; margin:25px 20px 8px 20px;padding=
+:0px;text-align: left; color: #282828; font-size: 20px;">Podcast: Building =
+Web Services With Postman</h1>=20
+<div class=3D"mktoText" id=3D"articleContent23b93dd58-d39a-4cd0-a352-e9166e=
+94acd7" style=3D"font-size: 12px; line-height: 22px; font-weight: 400; colo=
+r: #282828; margin: 0 20px 25px 20px; padding: 0px; text-align: left;">=20
+<p><strong></strong>Check out this&nbsp;<a href=3D
+"http://go.getpostman.com/o00tG0027003lU0FmDMhaD0" target=3D"_blank" id=3D"=
+"
+>Programming Throwdown Podcast</a>&nbsp;where our&nbsp;CEO and Co-Founder A=
+bhinav Asthana discusses building, scaling, and testing web services.</p>=
+=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr>=20
+<td>=20
+<div style=3D"display: none;">=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+96%; max-width: 490px; margin: 0 auto;background-color: #FFFFFF; margin: 0 =
+auto; text-align:center;" width=3D"100%" bgcolor=3D"#FFFFFF">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td align=3D"center">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td align=3D"center" style=3D"border-radius: 35px;" bgcolor=3D"#ff6c37"> <a=
+ href=3D"#" target=3D"_blank" class=3D"button" style=3D"font-size: 12px; li=
+ne-height: 22px !important; color: #ffffff !important; text-decoration: non=
+e; text-decoration: none;border-radius: 35px; padding: 3px 30px; border: 1p=
+x solid #ff6c37; display: inline-block;font-family:'Open Sans', -apple-syst=
+em, Helvetica, Arial, sans-serif !important;">Listen</a> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr height=3D"25">=20
+<td> &nbsp; </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</div> </td>=20
+</tr>=20
+<tr height=3D"25">=20
+<td style=3D"font-size: 0px; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"mkto-article-textonly-moduleb8ae3080-b0f2-40=
+74-9350-787cecfa1f52">=20
+<td>=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+92.7%; max-width: 510px; margin: 0 auto;" width=3D"100%">=20
+<tbody>=20
+<tr height=3D"25">=20
+<td style=3D"font-size: 0px; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td>=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+96%; max-width: 490px; margin: 0 auto;background-color: #FFFFFF; margin: 0 =
+auto; text-align:center;" width=3D"100%" bgcolor=3D"#FFFFFF">=20
+<tbody>=20
+<tr>=20
+<td> <h1 style=3D"font-family:'Open Sans', -apple-system, Helvetica, Arial,=
+ sans-serif !important; font-weight: 600; margin:25px 20px 8px 20px;padding=
+:0px;text-align: left; color: #282828; font-size: 20px;">Case Study: The Le=
+ague</h1>=20
+<div class=3D"mktoText" id=3D"articleContent2b8ae3080-b0f2-4074-9350-787cec=
+fa1f52" style=3D"font-size: 12px; line-height: 22px; font-weight: 400; colo=
+r: #282828; margin: 0 20px 25px 20px; padding: 0px; text-align: left;">=20
+<p><em>"We use Postman as a knowledge base for our APIs. We also use Postma=
+n for monitoring and loading our backend. Lots of systems can do that, but =
+when we need to customize that flow, Postman makes it easy."</em><br><br>Re=
+ad about how <a href=3D
+"http://go.getpostman.com/hDl3uFM00U000ah7G000D3m" target=3D"_blank" id=3D"=
+"
+>Postman helps The League&nbsp;sleep better at night</a>.</p>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr>=20
+<td>=20
+<div style=3D"display: none;">=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+96%; max-width: 490px; margin: 0 auto;background-color: #FFFFFF; margin: 0 =
+auto; text-align:center;" width=3D"100%" bgcolor=3D"#FFFFFF">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td align=3D"center">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td align=3D"center" style=3D"border-radius: 35px;" bgcolor=3D"#ff6c37"> <a=
+ href=3D"#" target=3D"_blank" class=3D"button" style=3D"font-size: 12px; li=
+ne-height: 22px !important; color: #ffffff !important; text-decoration: non=
+e; text-decoration: none;border-radius: 35px; padding: 3px 30px; border: 1p=
+x solid #ff6c37; display: inline-block;font-family:'Open Sans', -apple-syst=
+em, Helvetica, Arial, sans-serif !important;">Read More</a> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr height=3D"25">=20
+<td> &nbsp; </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</div> </td>=20
+</tr>=20
+<tr height=3D"25">=20
+<td style=3D"font-size: 0px; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"mkto-article-image-module60953f0c-d091-4f86-=
+910b-783c94acc996">=20
+<td>=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+92.7%; max-width: 510px; margin: 0 auto;" width=3D"100%">=20
+<tbody>=20
+<tr height=3D"25">=20
+<td style=3D"font-size: 0px; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td align=3D"center" valign=3D"top">=20
+<div class=3D"mktoImg" id=3D"mkto-article-image60953f0c-d091-4f86-910b-783c=
+94acc996" mktolockimgsize=3D"true">=20
+<a><img src=3D"https://pages.getpostman.com/rs/067-UMD-991/images/UserGroup=
+ copy%402x.png" width=3D"510" style=3D"width:100%; max-width: 510px; displa=
+y: block; background-color: #FFFFFF; box-shadow: 0px 7px 15px rgba(0, 0, 0,=
+ .3)!important;" alt=3D"UserGroup copy@2x.png"></a>=20
+</div> </td>=20
+</tr>=20
+<tr>=20
+<td>=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+96%; max-width: 490px; margin: 0 auto;background-color: #FFFFFF; background=
+-image: url(http://pages.getpostman.com/rs/067-UMD-991/images/image-shadow.=
+png); background-repeat: repeat-x; background-size: 2px 25px; background-po=
+sition: 0px 0px;margin: 0 auto; text-align:center;" width=3D"100%" bgcolor=
+=3D"#FFFFFF">=20
+<tbody>=20
+<tr>=20
+<td> <h1 style=3D"font-family:'Open Sans', -apple-system, Helvetica, Arial,=
+ sans-serif !important; font-weight: 600; margin: 25px 20px 25px 20px; padd=
+ing: 0px;text-align: left; color: #282828; font-size: 20px;">Postman Tutori=
+al: The Lazy Dev's Guide to API Automation</h1>=20
+<div class=3D"mktoText" id=3D"articleContent160953f0c-d091-4f86-910b-783c94=
+acc996" style=3D"font-size: 12px; line-height: 22px; font-weight: 400; colo=
+r: #282828; margin: 0 20px 25px 20px; padding: 0px; text-align: left;">=20
+<p><span style=3D"color: #282828; font-family: 'Open Sans', -apple-system, =
+Helvetica, Arial, sans-serif; font-size: 12px; font-style: normal; font-var=
+iant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter=
+-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-tran=
+sform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-tex=
+t-stroke-width: 0px;=20
+background-color: #ffffff; text-decoration-style: initial; text-decoration-=
+color: initial; display: inline !important; float: none;">Find out&nbsp;how=
+ we&nbsp;used Postman scripts and the&nbsp;Airtable and SurveyMonkey APIs t=
+o<span>&nbsp;</span></span><a href=3D
+"http://go.getpostman.com/v0Fm0G7v0hDDUl43M00a000" target=3D"_blank" style=
+=3D"font-family: 'Open Sans', -apple-system,=20
+Helvetica, Arial, sans-serif; font-size: 12px; font-style: normal; font-var=
+iant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter=
+-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-tran=
+sform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-tex=
+t-stroke-width: 0px; background-color: #ffffff;"
+>automatically upload</a><span style=3D"color:=20
+#282828; font-family: 'Open Sans', -apple-system, Helvetica, Arial, sans-se=
+rif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; f=
+ont-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans=
+: 2; text-align: left; text-indent: 0px; text-transform: none; white-space:=
+ normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; back=
+ground-color: #ffffff;=20
+text-decoration-style: initial; text-decoration-color: initial; display: in=
+line !important; float: none;"><span>&nbsp;the Postman Certification Quiz&n=
+bsp;</span>for our POST/CON Workshop.</span><br></p>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr>=20
+<td>=20
+<div style=3D"display: none !important;">=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+96%; max-width: 490px; margin: 0 auto;background-color: #FFFFFF; margin: 0 =
+auto; text-align:center;" width=3D"100%" bgcolor=3D"#FFFFFF">=20
+<tbody>=20
+<tr>=20
+<td>=20
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td align=3D"center">=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=20
+<tbody>=20
+<tr>=20
+<td align=3D"center" style=3D"border-radius: 35px;" bgcolor=3D"#ff6c37"> <a=
+ href=3D
+"http://go.getpostman.com/v0Fm0G7v0hDDUl43M00a000" target=3D"_blank" class=
+=3D"button" style=3D"font-size: 12px; line-height: 22px !important; color: =
+#ffffff !important; text-decoration: none; text-decoration: none;border-rad=
+ius: 35px; padding: 3px 30px; border: 1px solid #ff6c37; display: inline-bl=
+ock;font-family:'Open Sans', -apple-system, Helvetica, Arial, sans-serif !i=
+mportant;"
+>Read More</a> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr height=3D"25">=20
+<td> &nbsp; </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</div> </td>=20
+</tr>=20
+<tr height=3D"25">=20
+<td style=3D"font-size: 0px; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>
+<tr class=3D"mktoModule" id=3D"mkto-article-textonly-module44e02a9e-5d15-46=
+89-a18f-782f472e6be4">=20
+<td>=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+92.7%; max-width: 510px; margin: 0 auto;" width=3D"100%">=20
+<tbody>=20
+<tr height=3D"25">=20
+<td style=3D"font-size: 0px; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+<tr>=20
+<td>=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+96%; max-width: 490px; margin: 0 auto;background-color: #FFFFFF; margin: 0 =
+auto; text-align:center;" width=3D"100%" bgcolor=3D"#FFFFFF">=20
+<tbody>=20
+<tr>=20
+<td> <h1 style=3D"font-family:'Open Sans', -apple-system, Helvetica, Arial,=
+ sans-serif !important; font-weight: 600; margin: 0 auto;padding:25px 20px =
+8px 20px;text-align: left; color: #282828; font-size: 20px;">Press</h1>=20
+<div class=3D"mktoText" id=3D"articleContent244e02a9e-5d15-4689-a18f-782f47=
+2e6be4" style=3D"font-size: 12px; line-height: 22px; font-weight: 400; colo=
+r: #282828; margin: 0 auto; padding: 0px 20px 25px 20px; text-align: left;"=
+>=20
+<p>Read about&nbsp;how to&nbsp;<a href=3D
+"http://go.getpostman.com/F3mMD00w50U0l07a000DhGF" target=3D"_blank" id=3D"=
+"
+>write functional tests</a>&nbsp;for your API using Postman, Newman, and Bl=
+azeMeter in <em>DZone</em>.</p>=20
+<p>In <em>Dzone</em>, Dwight Gunning of Stream API&nbsp;shares&nbsp;how his=
+ team&nbsp;<a href=3D
+"http://go.getpostman.com/thDl0a07Um0D600GMF0003x" target=3D"_blank"
+>created a Postman Collection</a>&nbsp;of API request examples that showcas=
+es all of their major features.</p>=20
+<p>Sanjay Patel walks through&nbsp;using environments, dynamic variables, a=
+nd pre-request scripts with Postman and&nbsp;<span style=3D"color: #282828;=
+ font-family: 'Open Sans', -apple-system, Helvetica, Arial, sans-serif; fon=
+t-size: 12px; font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; tex=
+t-align: left;=20
+text-indent: 0px; text-transform: none; white-space: normal; widows: 2; wor=
+d-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; =
+text-decoration-style: initial; text-decoration-color: initial; display: in=
+line !important; float: none;">shares&nbsp;</span><a href=3D
+"http://go.getpostman.com/MG0D0a0mU7F3h007D0lM0y0" target=3D"_blank" id=3D"=
+" style=3D"font-family: 'Open Sans', -apple-system, Helvetica, Arial, sans-=
+serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal;=
+ font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orpha=
+ns: 2; text-align: left; text-indent: 0px; text-transform: none; white-spac=
+e: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; ba=
+ckground-color:=20
+#ffffff;"
+>clever tips to use Postman</a>&nbsp;in&nbsp;<em>DZone</em>.</p>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<tr>=20
+<td>=20
+<div style=3D"display: block;">=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+96%; max-width: 490px; margin: 0 auto;background-color: #FFFFFF; margin: 0 =
+auto; text-align:center;" width=3D"100%" bgcolor=3D"#FFFFFF">=20
+<tbody>=20
+<tr>=20
+<td> <a class=3D"main-cta" summary=3D"main-cta" href=3D
+"http://go.getpostman.com/R00DFm3Mah0000l0UzD78G0" style=3D"background-colo=
+r:#EF5B25; margin: 0 auto;padding:3px 30px 3px 30px; border-radius:35px; co=
+lor:#ffffff !important; display:inline-block; font-family:'Open Sans', -app=
+le-system, Helvetica, Arial, sans-serif !important; font-weight:500; font-s=
+ize:12px; color:#FFFFFF; line-height:22px !important; text-align:center; te=
+xt-decoration:none; -webkit-text-size-adjust:none" bgcolor=3D"#EF5B25" alig=
+n=3D"center" target=3D"_blank"
+>Read the Latest Press</a> </td>=20
+</tr>=20
+<tr height=3D"25">=20
+<td> &nbsp; </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+</div> </td>=20
+</tr>=20
+<tr height=3D"25">=20
+<td style=3D"font-size: 0px; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>
+</table>=20
+<!--[if mso]>
+        =09=09=09=09=09</td>
+        =09=09=09=09=09<td style=3D"padding:0px;margin:0px;">&nbsp;</td>
+        =09=09=09=09</tr>
+        =09=09=09</table>
+        =09=09=09<![endif]-->=20
+<!-- END LIQUID WRAPPER --> </td>=20
+</tr>=20
+<tr>=20
+<td>=20
+<table class=3D"inner-table" summary=3D"inner-table" align=3D"center" valig=
+n=3D"top" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: =
+100%;margin: 0 auto; background-color: #transparent; margin: 0 auto; text-a=
+lign:center;" width=3D"100%" bgcolor=3D"#ff6c37">=20
+<tbody>=20
+<tr height=3D"136">=20
+<td>=20
+<div class=3D"mktoText" id=3D"footerText" style=3D"font-family: 'Open Sans'=
+, -apple-system, Helvetica, Arial, sans-serif !important; font-size: 10px; =
+line-height: 14px; color: #ffffff !important;">
+<p style=3D"font-family: 'Open Sans', -apple-system, Helvetica, Arial, sans=
+-serif !important; font-size: 10px; line-height: 14px; color: #ffffff !impo=
+rtant;">=C2=A9 2018 Postman Inc., All Rights Reserved.<br><a href=3D
+"http://go.getpostman.com/NM00AUah0003l7D09GF0m0D" style=3D"text-decoration=
+: none !important; color: #ffffff !important;"
+>595 Market Street, Suite 1130&nbsp; San Francisco, CA 94105</a><br>Click t=
+o <strong><a href=3D"https://pages.getpostman.com/UnsubscribePage.html?mkt_=
+unsubscribe=3D1&mkt_tok=3DeyJpIjoiWlRJeU1tUTBOelU1TUdZMyIsInQiOiJLTGVPbDdSL=
+3Y5ZG0vNHdsNkxOM09XcEFneXl1dDczRDVGcFgramk0K1AyUXdhWFVuTVQvaXNvdVdwUG9XNlFS=
+azF2bWlqNC84YzU2cmdYOXcvcEpvcmdUYzFUMmRYRmorMVVvM24zV21JT09WVjA4WmgrS2VnTVZ=
+hR2VwbUZDVCJ9" style=3D"color: #ffffff !important;">unsubscribe</a></strong=
+> from these emails.</p>
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> =20
+
+<img src=3D"http://go.getpostman.com/trk?t=3D1&mid=3DMDY3LVVNRC05OTE6MTgwMz=
+oyNzIxOjQ4NDM6MDoyODM3Ojk6MTIzNzQ6OTgxMTI3MzpzdWl0ZWNybTJAZ21haWwuY29t" wid=
+th=3D"1" height=3D"1" style=3D"display:none !important;" alt=3D"" />
+</body>
+</html>
+------=_Part_-147098772_744397080.1529438164945--
+)

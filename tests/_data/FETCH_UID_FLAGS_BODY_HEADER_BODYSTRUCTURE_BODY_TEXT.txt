@@ -1,0 +1,49 @@
+* 1 FETCH (UID 1 FLAGS (\Seen) BODY[HEADER] {782}
+Return-Path: <root@localhost.localdomain>
+X-Original-To: user@localhost.localdomain
+Delivered-To: user@localhost.localdomain
+Received: from u255 (localhost [127.0.0.1])
+	by u255 (Postfix) with ESMTP id 9AFDAB813D1
+	for <user@localhost.localdomain>; Tue,  5 Jun 2018 08:59:50 +0100 (BST)
+Date: Tue, 5 Jun 2018 08:59:50 +0100
+To: Daniel <user@localhost.localdomain>
+From: Mailer <root@localhost.localdomain>
+Reply-To: Information <user@localhost.localdomain>
+Subject: Test Email: Baron Hartmann
+Message-ID: <DJdjz17adcO1Vkuk6O7ioGY6JIiljLQAWVYV3MWgC7s@u255>
+X-Mailer: PHPMailer 6.0.5 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="b1_DJdjz17adcO1Vkuk6O7ioGY6JIiljLQAWVYV3MWgC7s"
+Content-Transfer-Encoding: 8bit
+
+ BODYSTRUCTURE ((("text" "plain" ("charset" "us-ascii") NIL NIL "7bit" 58 1 NIL NIL NIL NIL)("text" "html" ("charset" "us-ascii") NIL NIL "7bit" 49 2 NIL NIL NIL NIL) "alternative" ("boundary" "b2_DJdjz17adcO1Vkuk6O7ioGY6JIiljLQAWVYV3MWgC7s") NIL NIL NIL)("text" "plain" ("name" "Plaintext" "charset" "us-ascii") "<Plaintext>" NIL "base64" 18 1 NIL ("attachment" ("filename" "Plaintext")) NIL NIL) "mixed" ("boundary" "b1_DJdjz17adcO1Vkuk6O7ioGY6JIiljLQAWVYV3MWgC7s") NIL NIL NIL) BODY[TEXT] {835}
+This is a multi-part message in MIME format.
+--b1_DJdjz17adcO1Vkuk6O7ioGY6JIiljLQAWVYV3MWgC7s
+Content-Type: multipart/alternative;
+	boundary="b2_DJdjz17adcO1Vkuk6O7ioGY6JIiljLQAWVYV3MWgC7s"
+
+--b2_DJdjz17adcO1Vkuk6O7ioGY6JIiljLQAWVYV3MWgC7s
+Content-Type: text/plain; charset=us-ascii
+
+This is the body in plain text for non-HTML mail clients
+
+--b2_DJdjz17adcO1Vkuk6O7ioGY6JIiljLQAWVYV3MWgC7s
+Content-Type: text/html; charset=us-ascii
+
+This is the HTML message body <b>in bold!</b>
+
+
+--b2_DJdjz17adcO1Vkuk6O7ioGY6JIiljLQAWVYV3MWgC7s--
+
+--b1_DJdjz17adcO1Vkuk6O7ioGY6JIiljLQAWVYV3MWgC7s
+Content-Type: text/plain; name="Plaintext"
+Content-Transfer-Encoding: base64
+Content-ID: <Plaintext>
+Content-Disposition: attachment; filename=Plaintext
+
+bG9ydW0gaXBzdW0K
+
+--b1_DJdjz17adcO1Vkuk6O7ioGY6JIiljLQAWVYV3MWgC7s--
+
+)

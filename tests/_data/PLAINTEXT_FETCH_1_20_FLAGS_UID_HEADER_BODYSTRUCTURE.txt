@@ -1,0 +1,14 @@
+* 2677 FETCH (UID 2684 FLAGS (\Seen) BODY[HEADER] {413}
+MIME-Version: 1.0
+Received: by 2002:a25:d989:0:0:0:0:0 with HTTP; Wed, 20 Jun 2018 04:32:20
+ -0700 (PDT)
+Date: Wed, 20 Jun 2018 12:32:20 +0100
+Delivered-To: suitecrm2@gmail.com
+Message-ID: <CAMFzkGrn474i8Zy7V6jX04=rOM3SmeOvK3KmZFZLZ-0Xqz050w@mail.gmail.com>
+Subject: Plain text email
+From: Daniel Samson <suitecrm2@gmail.com>
+To: qweqwe <suitecrm2@gmail.com>
+Content-Type: text/plain; charset="UTF-8"
+
+ BODYSTRUCTURE ("TEXT" "PLAIN" ("CHARSET" "UTF-8") NIL NIL "7BIT" 38 1 NIL NIL NIL))
+3 OK Success

@@ -1,0 +1,1 @@
+* 1 FETCH (BODY ((("text" "plain" ("charset" "us-ascii") NIL NIL "7bit" 58 1)("text" "html" ("charset" "us-ascii") NIL NIL "7bit" 49 2) "alternative")("text" "plain" ("name" "Plaintext" "charset" "us-ascii") "<Plaintext>" NIL "base64" 18 1) "mixed"))

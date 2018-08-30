@@ -1,0 +1,11 @@
+.idea/
+*.lock
+*.ignore
+vendor/
+nbproject/
+.buildpath
+.project
+.settings
+.ignore/
+tags
+static/

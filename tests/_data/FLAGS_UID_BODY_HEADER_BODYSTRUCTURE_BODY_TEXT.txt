@@ -1,0 +1,58 @@
+* 100 FETCH (UID 107 FLAGS (\Seen) BODY[TEXT] {2052}
+This is a multi-part message in MIME format.
+
+--b1_18dbf56cc0931ca2521074b117fba77b
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Add your headline here..34518 Lorem ipsum dolor sit amet, consectetur adipi=
+scing elit. Etiam tempus odio ante, in feugiat ex pretium eu. In pharetra t=
+incidunt urna et malesuada. Etiam aliquet auctor justo eu placerat. In nec =
+sollicitudin enim. Nulla facilisi. In viverra velit turpis, et lobortis nun=
+c eleifend id. Curabitur semper tincidunt vulputate. Nullam fermentum pelle=
+ntesque ullamcorper.
+
+
+--b1_18dbf56cc0931ca2521074b117fba77b
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div class=3D"mozaik-inner" style=3D"font-family:Arial, Helvetica, sans-ser=
+if;font-size:14px;line-height:22.4px;color:rgb(68,68,68);padding:0px 30px;m=
+argin:0px auto;width:600px;background-color:rgb(250,250,250);"><h1 style=3D=
+"font-family:Arial, Helvetica, sans-serif;font-size:24px;line-height:38.4px=
+;color:#444444;padding:0px;margin:0px;">Add your headline here..</h1></div>=
+<div class=3D"mozaik-inner" style=3D"font-family:Arial, Helvetica, sans-ser=
+if;font-size:14px;line-height:22.4px;color:rgb(68,68,68);padding:0px 30px;m=
+argin:0px auto;width:600px;background-color:rgb(250,250,250);"><h2 style=3D=
+"font-family:Arial, Helvetica, sans-serif;font-size:18px;line-height:28.8px=
+;color:rgb(68,68,68);padding:0px;margin:0px;">34518</h2><p style=3D"font-fa=
+mily:Arial, Helvetica, sans-serif;font-size:14px;line-height:22.4px;color:r=
+gb(68,68,68);padding:0px;margin:0px;">Lorem ipsum dolor sit amet, consectet=
+ur adipiscing elit. Etiam tempus odio ante, in feugiat ex pretium eu. In ph=
+aretra tincidunt urna et malesuada. Etiam aliquet auctor justo eu placerat.=
+ In nec sollicitudin enim. Nulla facilisi. In viverra velit turpis, et lobo=
+rtis nunc eleifend id. Curabitur semper tincidunt vulputate. Nullam ferment=
+um pellentesque ullamcorper.</p></div>
+
+
+--b1_18dbf56cc0931ca2521074b117fba77b--
+
+ BODY[HEADER] {721}
+Return-Path: <xxxxxxxxx@gmail.com>
+Received: from suitecrm.xxx.xxxxxxxx.com ([154.61.32.168]) by smtp.gmail.com
+ with ESMTPSA id l1sm335625wmh.13.2018.01.24.07.08.18 for
+ <xxxxxxxxx@gmail.com> (version=TLS1 cipher=ECDHE-RSA-AES128-SHA
+ bits=128/128); Wed, 24 Jan 2018 07:08:19 -0800 (PST)
+From: SuiteCRM <xxxxxxxxx@gmail.com>
+X-Google-Original-From: SuiteCRM <my@crm.com>
+Date: Wed, 24 Jan 2018 15:08:18 +0000
+To: Administrator <xxxxxxxxx@gmail.com>
+Subject:
+Message-ID: <18dbf56cc0931ca2521074b117fba77b@suitecrm.xxx.xxxxxxxx.com>
+X-Mailer: PHPMailer 5.2.25 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_18dbf56cc0931ca2521074b117fba77b"
+
+ BODYSTRUCTURE (("TEXT" "PLAIN" ("CHARSET" "UTF-8") NIL NIL "QUOTED-PRINTABLE" 414 9 NIL NIL NIL)("TEXT" "HTML" ("CHARSET" "UTF-8") NIL NIL "QUOTED-PRINTABLE" 1290 26 NIL NIL NIL) "ALTERNATIVE" ("BOUNDARY" "b1_18dbf56cc0931ca2521074b117fba77b") NIL NIL))

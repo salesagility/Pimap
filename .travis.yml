@@ -1,0 +1,29 @@
+language: php
+php:
+  - 5.5
+  - 5.6
+  - 7.0
+  - 7.1
+  - 7.2
+
+matrix:
+  fast_finish: true
+jobs:
+  include:
+      - stage: codecoverage
+        if: type IN (pull_request) OR branch in (master)
+        php: 7.0
+        script: ./vendor/bin/codecept run unit -f --steps -v -d --coverage-xml;bash < (curl -s https://codecov.io/bash) -f tests/_output/coverage.xml;
+sudo: false
+dist: trusty
+
+install:
+  - composer self-update && composer --version
+
+script:
+  # Run the unit tests
+  - ./vendor/bin/codecept run -f unit
+
+branches:
+  only:
+    - master
