@@ -19,6 +19,7 @@ dist: trusty
 
 install:
   - composer self-update && composer --version
+  - composer install
 
 script:
   # Run the unit tests
