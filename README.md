@@ -6,6 +6,7 @@ A PHP Library for communication with IMAP Servers.
 [![codecov](https://codecov.io/gh/SalesAgility/Pimap/branch/master/graph/badge.svg)](https://codecov.io/gh/SalesAgility/Pimap)
 [![Total Downloads](https://poser.pugx.org/SalesAgility/Pimap/downloads)](https://packagist.org/packages/SalesAgility/Pimap)
 
+
 ### Rationale
 When communication with an IMAP email server involves a high amount of latency,
 it helps to be able to hand craft commands, so that we can reduce the quantity of commands being sent to the server. The PHP IMAP extension
