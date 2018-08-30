@@ -13,7 +13,7 @@ jobs:
       - stage: codecoverage
         if: type IN (pull_request) OR branch in (master)
         php: 7.0
-        script: ./vendor/bin/codecept run unit -f --steps -v -d --coverage-xml;bash < (curl -s https://codecov.io/bash) -f tests/_output/coverage.xml;
+        script: ./vendor/bin/codecept run unit -f --steps -v -d --coverage-xml; bash <(curl -s https://codecov.io/bash) -f tests/_output/coverage.xml;
 sudo: false
 dist: trusty
 
