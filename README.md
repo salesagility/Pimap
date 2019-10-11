@@ -10,7 +10,7 @@ A PHP Library for communication with IMAP Servers.
 ### Rationale
 When communication with an IMAP email server involves a high amount of latency,
 it helps to be able to hand craft commands, so that we can reduce the quantity of commands being sent to the server. The PHP IMAP extension
-does not offer such control of over the transport layer of the IMAP protocol. This library replaces the PHP IMAP extension
+does not offer such control over the transport layer of the IMAP protocol. This library replaces the PHP IMAP extension
 and provides full control over the entire process.
 
 ### Features
@@ -44,7 +44,7 @@ Once signed and confirmed, any pull requests will be considered for inclusion in
 #### Security
 
 We take security seriously here at SalesAgility so if you have discovered a security risk report it by
-emailing security@suitecrm.com. This will be delivered to the product team who handle security issues.
+emailing security@suitecrm.com. This will be delivered to the product team that handle security issues.
 Please don't disclose security bugs publicly until they have been handled by the security team.
 
 Your email will be acknowledged within 24 hours during the business week (Mon - Fri), and you’ll receive a more
@@ -58,7 +58,7 @@ composer require "salesagility/pimap"
 ```
 
 ### Getting Help
-All the documentation is situated in the docs directory. The documentation in this project is written in mark down and generated using [Daux.io](https://daux.io/).
+All the documentation is situated in the docs directory. The documentation in this project is written in markdown and generated using [Daux.io](https://daux.io/).
 
 #### Generate Documentation
 To build the documentation
@@ -71,7 +71,7 @@ cd /path/to/pimap/
 open the generated _static/index.html_ file.
 
 #### Host Documentation
-When updating the documentation, it helps to be able to see a live copy of your changes. Daux.io provides a built in web server.
+When updating the documentation, it helps to be able to see a live copy of your changes. Daux.io provides a built-in web server.
 
 ```bash
 cd /path/to/pimap/
@@ -83,4 +83,4 @@ this command will output something similar to:
 Daux development server started on http://localhost:8085/
 ```
 
-in this case you can access  **http://localhost:8085/** in your web browser.
+in this case, you can access  **http://localhost:8085/** in your web browser.
